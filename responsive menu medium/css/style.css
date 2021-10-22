@@ -1,0 +1,26 @@
+  * {
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: sans-serif;
+    margin: 0;
+    background: #757f9a; /* fallback for old browsers */
+    background: webkit lineargradient(to right, #757f9a, #d7dde8); /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #757f9a, #d7dde8); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  }
+
+
+
+ 
+  @media all and (min-width:600px) {
+
+  }
+
+
+ @media all and (min-width: 900px) {
+    
+
+  
+  }
+  

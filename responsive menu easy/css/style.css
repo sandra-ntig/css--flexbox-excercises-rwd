@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+  
+}
+body {
+  margin: 0;
+  font-family: 'Raleway', sans-serif;
+}
+ /* MOBILE LAYOUT*/
+ 
+  
+ /* TABLE LAYOUT*/
+  @media screen and (max-width: 600px) {
+    
+    
+  }
+
+ /* DEASKTOP LAYOUT*/
+ @media screen and (min-width: 920px) {
+
+   
+   
+  }
+  
+  
