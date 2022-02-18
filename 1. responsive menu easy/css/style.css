@@ -6,17 +6,17 @@ body {
   margin: 0;
   font-family: 'Raleway', sans-serif;
 }
- /* MOBILE LAYOUT*/
+ /* DESKTOP LAYOUT*/
  
   
  /* TABLE LAYOUT*/
-  @media screen and (max-width: 600px) {
+  @media screen and (max-width: 920px) {
     
     
   }
 
- /* DEASKTOP LAYOUT*/
- @media screen and (min-width: 920px) {
+ /* MOBILE LAYOUT*/
+ @media screen and (max-width: 600px) {
 
    
    
