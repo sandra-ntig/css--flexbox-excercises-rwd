@@ -1,12 +1,9 @@
-# Flexboxövningar RWD
+# Pricing panel
 
-1. Välj en övning du vill göra
-2. Öppna screen.png för att se slutresultat
-3. Öppna index.html för att studera de olika elmenten i innehållet
-4. Öppna style.css och koda fram samma layout som screen.png m h a flexbox och allmän CSS (margin etc.) 
+1. Gör om mobillayouten till desktoplayout enligt bild (mobile-first!)
+2. Använd CSS-enheten rem för fontsize både i desktop och mobil (istället för nuvarande px)
+3. Använd CSS-enheten em för margin och padding både i desktop och mobil (istället för nuvarande px)
 
-Du är fri att ändra i index.html och finjustera style i css så länge layouten upprätthålls.
-
-Övningarna har varierande svårighetsgrad - välj var du vill utmanas!
+Använd fontstorlekar så att de är mindre i mobilläge, men inte för smått :-)
 
 Lycka till!
